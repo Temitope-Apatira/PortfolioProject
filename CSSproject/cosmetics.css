@@ -1,0 +1,132 @@
+body{
+	font-family:tee;
+	font-size:20px;
+	background-color:seashell;
+	color:black;
+	}
+	
+	
+#ab{
+	height:400px;
+
+	background-image:url("images/mo.jpg");
+	background-size:cover;
+	}	
+	
+	
+.img{
+	height:300;
+	width:300;
+	border-radius:50%
+	}	
+	
+a{
+	text-decoration:none;
+	color:black;
+	text-transform:capitalize;
+	margin-right:50px
+	}		
+
+
+#navigation li{
+	display:inline-block;
+	margin-right:30px;	
+	}
+
+#f li{	display:inline-block;
+	margin-right:30px;	
+	}
+
+#head{
+	min-height:80px;color:seashell;box-sizing:border-box;background-color:#1D0E1B;
+	}
+
+#first{
+	min-height:500px;color:black;overflow:auto;background-image:url("images/ma.jpg");repeat:no-repeat;background-size:cover;background-position:bottom;background-attachment:fixed;
+	}
+
+#shop{
+	overflow:auto;
+	display:flex;
+	justify-content:space-between;
+	}
+
+
+.circle{
+	height:300px;width:300px;border-radius:300px;	
+	}
+
+
+#join{
+	display:flex;	
+	justify-content:space-between;
+	}
+
+.us{
+	height:400px;width:47%;
+	}	
+	
+#arrivals{
+	display:flex;
+	justify-content:space-around;
+	}
+
+.ar{
+	height:500px;width:305px;	
+	}
+
+.arr{
+	font-size:20px;
+	}
+
+.imgg{
+	height:300;width:305
+	}
+
+h1{
+	font-family:"baskerville old face",serif	
+	}
+
+p{
+font-family:centaur, serif
+}
+
+
+#foot{
+	height:60px;
+	background-color:#1D0E1B;
+	padding:10px;
+	color:mintcream;
+	}
+
+input{
+	display:block;
+	padding:10px;
+	margin:10px;
+	background-color:mintcream;
+	width:90%;
+	border:1px solid #ED008C;
+	margin-top:2px
+	}
+
+#info{
+	background-color:rgba(128,128,128,0.1);
+	
+	height:400px;
+	display:flex;
+	justify-content:space-between;
+	overflow:auto
+	}
+
+
+
+.info{
+	width:25%;
+
+	padding:6px;	
+	}
+
+
+.label{
+	margin:10px
+	}
