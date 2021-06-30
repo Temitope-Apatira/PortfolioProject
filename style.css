@@ -1,0 +1,80 @@
+
+		
+		/*.row div{
+		border: 1px solid red;
+		height: 100px;
+	}*/
+	/*.carousel-indicator li{
+		color: black;
+	}*/
+
+	@font-face{
+		font-family: halant-medium;
+		src:url('Halant/Halant-medium.ttf');
+	}
+
+	
+
+	p{
+	font-family:nuni,arial,sans-serif;	
+	}
+
+	h4{
+		font-family:halant-medium,arial,serif;
+	}
+
+	.bg {
+		background-color: #1B242F;
+		color: snow;
+		position: fixed;
+	}
+
+	.box {
+		box-shadow: 5px 5px 10px #1B242F;
+	}
+
+	/* a { 
+		border-radius: 30%;
+		color:blue;
+		margin-right:20px;
+
+	}*/
+
+	
+
+	.dis{
+		font-size: 40px;
+		color:snow;
+		font-weight: bold;
+	}
+
+	hr{
+		top: 5px;
+		height: 2px;
+		background: black;
+		margin-bottom: 30px;
+	}
+
+	.pr{
+		background-color: #F5F5F5;
+	}
+
+	
+
+	.banner{
+		background-image:url('images/bann.jpg');
+		height:500px;
+		background-size: contain;
+		background-position:top;
+		background-attachment:fixed;
+	}
+
+	
+
+	.pro{
+		color:black;
+		font-size: 15px;
+	}
+
+	
+	
